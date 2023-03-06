@@ -1,0 +1,22 @@
+physical_appearance:
+  physique:
+    - very slim:
+        weight: 3
+        bonus: Retarded
+
+
+  hair:
+    - long straight:
+        weight: 3
+        bonus: sweet aroma
+
+
+fighting_class:
+  death knight:
+    weight: 10
+
+  shaman:
+    weigt: 0.6
+    bonus: say jiji nigga
+
+

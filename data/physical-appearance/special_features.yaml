@@ -1,0 +1,15 @@
+voice:
+  - normal
+  - deep:
+      weight: 0.5
+  - high_pitch
+  - annoying
+  - smooth
+  - sexy
+  - singer
+  - mute:
+      bonus: can understand animals
+  - scary
+  - manly:
+      weight: 20
+      bonus: Mighty Roar Attack

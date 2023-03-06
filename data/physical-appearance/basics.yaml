@@ -1,0 +1,109 @@
+gender:
+  - male
+  - female
+
+age:
+  - teenage
+  - youth:
+      weight: 2
+  - adult:
+      weight: 2
+  - old adult
+  - old
+
+height:
+  - very short:
+      weight: 0.5
+  - short
+  - average
+  - tall
+  - very tall:
+      weight: 0.5
+
+skin:
+  - white:
+      weight: 3
+  - pale white:
+      weight: 2
+  - yellowish
+  - tan
+  - brown
+  - dark brown
+  - black
+
+physique:
+  - very slim
+  - slim
+  - average
+  - muscular
+  - buffed
+  - very fat
+
+hair:
+  - bald:
+      weight: 0.3
+  - short messy
+  - long wavy
+  - negro
+  - short curly
+  - long curly
+  - afro
+  - straight
+  - long straight
+  - short straight
+
+
+hair_color:
+  - red
+  - dark red
+  - white
+  - silver
+  - black:
+      weight: 3
+  - brown:
+      weight: 3
+  - blue
+  - purple
+  - blonde:
+      weight: 2
+  - orange
+  - gray:
+      weight: 2
+
+
+seduction:
+  - cute
+  - average
+  - ugly
+  - beautiful
+  - charming:
+      weight: 0.5
+      bonus: seduce both genders
+
+eyes:
+  - blue
+  - silver
+  - red
+  - purple
+  - green
+  - brown:
+      weight: 3
+  - black
+  - yellow
+  - silver
+  - silver blue:
+      weight: 0.5
+      bonus: see in the dark
+
+voice:
+  - normal
+  - deep:
+      weight: 0.5
+  - high_pitch
+  - annoying
+  - smooth
+  - sexy
+  - singer
+  - mute:
+      bonus: can understand animals
+  - scary
