@@ -44,3 +44,5 @@ if __name__ == "__main__":
     creator = CharacterCreator(folder)
     body = (creator.create_character(race='elf'))
     print(body)
+
+
