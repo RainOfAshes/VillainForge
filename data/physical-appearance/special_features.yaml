@@ -1,15 +1,6 @@
-voice:
-  - normal
-  - deep:
-      weight: 0.5
-  - high_pitch
-  - annoying
-  - smooth
-  - sexy
-  - singer
-  - mute:
-      bonus: can understand animals
-  - scary
-  - manly:
-      weight: 20
-      bonus: Mighty Roar Attack
+- smart:
+    bonus: can take two turns vs. low intelligent enemies
+
+- chinese_eyes:
+    weight: 2
+    bonus: can see twice as long as me kekw

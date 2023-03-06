@@ -8,9 +8,11 @@ from utils import read_yaml
 @dataclass
 class Trait:
     name: str
-    bonus: Optional[str] = None
     weight: Optional[float] = 1
+    bonus: Optional[str] = None
     status: Optional[Dict] = None
+    description: Optional[str] = None
+    flavor_text: Optional[str] = None
 
     def __hash__(self):
         return hash(self.name)

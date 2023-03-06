@@ -1,3 +1,9 @@
 - death knight:
     weight: 1
     bonus: can cry all day long
+
+
+- barbarian:
+      weight: 1
+      bonus: Hangry
+      description: Very Hangry
