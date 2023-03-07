@@ -1,0 +1,79 @@
+What is a Weapon:
+
+- Reach: [start, finish]
+- weapon skill: default None
+- stance: 1-hand, 2-hands, both-hands (initial D20)
+- description: stronk weapon
+- flavor text: weapon stronk, I bonk
+
+- Scaling: Weapons give u stats
+
+- Requirements: of type String
+
+- Power-level: Categories: <common: 4, rare: 6, epic: 8, legendary: 12>
+
+- Upgrade-ability: you get a better weapon
+
+--------------------
+Initial D20:
+scale 1 - 20
+
+1: you miss up (0)
+2-5: weak (1)
+6-10: medium (2)
+10-15: effective (3)
+15-19: very effective (4)
+20: double effective (6)
+---------------------
+1 - 12
+
+1,2: okay (1)
+3,4: kinda strong (2)
+5,6: strong attack (4)
+7,8: very strong (6)
+
+9-12: legendary attack (8)
+-----------------------
+
+Stats:
+- Strength: Armor weight, push stuff carry stuff, physical stuff
+- Dexterity: Movement & agility based stuff
+- Vigor: Health as in HP, or dealing with stuff
+- Mana: The ability to do nigger wigger stuff (Unlock Magic + Number of casts)
+- Insight: get any kind of info from the DM
+
+------------------------------------- Skill Check ----------------------------------------
+categories:
+easy: 4
+medium: 8
+hard: 12
+
+if group check, category weight + easy (for each party member -1)
+
+------------------------------------- Leveling up -----------------------------------------
+-> starting level: All starts with the same level: 0
+-> max level: 8
+
+-> starting (1) | early-game (2) | mid-game (2) | late-game (2)| end-game (1)
+
+-> experience: milestones & story-based
+
+-> Distribution Stats
+
+-> value per level
+
+--------------------------------------------------------------------------------------------
+class: main, secondary
+starting lv0.
+main: 6
+secondary: 4
+n: 2
+n: 2
+n: 2
+each level u get +2
+
+--- how would u convince the players, to ever level up anything but vigor ---
+vigor scales flat with level.
+points in vigor, goes to skill checks
+each fighting class, can have 1 of 3:
+ Squishy, Average, Tank

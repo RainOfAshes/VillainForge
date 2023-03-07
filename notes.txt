@@ -1,0 +1,37 @@
+character:
+
+- Race
+- P.A. | Race
+
+- Class | Race
+
+
+- Equipment: Armor, Weapons, tools, catalyst (Magic purposes) , what about shields? |  Class
+    -> Armor: - Head Piece: Trait (Bonus)
+              - Body Armor: Protection Class/Category + Weight
+              # Each class has weight upper-limit per starting
+
+    -> Weapons:
+
+
+- Skills (Passive): Dual Wield, resistance to poison | Class & Race
+
+- Abilities: fireball | Class &? Race
+
+- Quirks: Drugs Addict, Fast learner, can read
+
+- Personality: Type of person
+
+- Backstory: Origin (Fun) | Class ^ Race
+
+- Special Features: Blind, very hairy, has 3 hands, pointy ears
+
+- identity : e.g. Honesty, Generosity, bloodthirsty
+
+- Aspirations (Fun)
+
+- Bonuses: Collection of the bonuses you have
+
+
+
+What about familiars/ companions/ summons?
